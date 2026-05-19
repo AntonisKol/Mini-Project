@@ -1,6 +1,6 @@
 Metric,CSV,Parquet,Winner
 File Size,2.89 MB,1.14 MB,Parquet (2.5x smaller)
-Read Time,0.0356 sec,0.0331 sec,Parquet (1.1x faster)
+Read Time,0.0391 sec,0.0380 sec,Parquet (1.0x faster)
 Compression,No,Yes (Snappy),Parquet
 Columnar Storage,No,Yes,Parquet
 Schema Support,No,Yes,Parquet
